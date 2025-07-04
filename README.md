@@ -1,4 +1,4 @@
-## mkzger 欢迎！！小修改2
+## mkzger 欢迎！！小修改3
 
 <!--
 **mkzger/mkzger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-eval "$(ssh-agent -s)"
-ssh-add -D
-ssh-add ~/.ssh/id_rsa_mkzger
-ssh-add ~/.ssh/id_rsa_olimin
