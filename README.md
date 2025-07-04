@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+eval "$(ssh-agent -s)"
+ssh-add -D
+ssh-add ~/.ssh/id_rsa_mkzger
+ssh-add ~/.ssh/id_rsa_olimin
